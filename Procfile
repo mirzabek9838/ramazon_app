@@ -1,2 +1,0 @@
-
-iworker: python bitkovin.py 
